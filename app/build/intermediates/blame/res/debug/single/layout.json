@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_warn.xml",
+        "source": "D:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\src\\main\\res\\layout\\toast_warn.xml"
+    },
+    {
+        "merged": "D:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_record.xml",
+        "source": "D:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\src\\main\\res\\layout\\dialog_record.xml"
+    },
+    {
+        "merged": "D:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

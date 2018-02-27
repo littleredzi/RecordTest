@@ -1,0 +1,4 @@
+#Tue Feb 27 14:40:36 CST 2018
+base.0=D\:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\ASProject3\\jdPaySDK_Android_JDMall_studio\\RecordTest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
